@@ -1,0 +1,1 @@
+These are photos of the Party Button, including the completed box and specific solder connections.
