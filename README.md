@@ -6,7 +6,7 @@ As seen on SparkFun LIVE! (January 6, 2014)
 
 This party button sounds the alarm and gets it started.
 
-The MP3 Shield was written by [Bill Porter](http://www.billporter.info/2012/01/28/sparkfun-mp3-shield-arduino-library/)
+The MP3 Shield library was written by [Bill Porter](http://www.billporter.info/2012/01/28/sparkfun-mp3-shield-arduino-library/)
 
 Repository Contents
 -------------------
