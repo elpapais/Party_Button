@@ -1,0 +1,1 @@
+This folder contains the Arduino library for the SparkFun MP3 Shield. It was written by Bill Porter. Thank you Bill!

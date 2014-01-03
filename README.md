@@ -11,6 +11,7 @@ Repository Contents
 
 * **/Firmware** - Arduino sketch
 * **/Hardware** - Eagle schematics
+* **/Libraries** - Arduino libraries
 * **/Pictures** - Photos of the project and specific solder connections
 
 Version History
